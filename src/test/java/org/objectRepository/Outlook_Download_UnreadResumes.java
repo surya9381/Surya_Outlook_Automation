@@ -124,6 +124,17 @@ public class Outlook_Download_UnreadResumes {
 		
 		Thread.sleep(5000);
 		
+		
+		
+		for(int i=1;i<=1;i++)
+		{
+			if(resumebox.isDisplayed())
+			{
+			
+		  
+		
+		
+		
 		wlib.explicitWaitCondition(driver, resumebox, 200);
 		resumebox.click();
 		
@@ -149,5 +160,13 @@ public class Outlook_Download_UnreadResumes {
 		wlib.explicitWaitCondition(driver, teamsLogo, 200);
 		teamsLogo.click();
 		
+			}
+			else
+				break;
+		
+		}
+		}
+		
+		
 	}
-}
+

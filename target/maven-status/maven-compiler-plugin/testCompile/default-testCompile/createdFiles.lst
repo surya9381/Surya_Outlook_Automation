@@ -1,0 +1,11 @@
+org\objectRepository\Outlook_Homepage.class
+org\genericLibrary\UploadFile.class
+org\genericLibrary\File_Utility.class
+org\testscripts\Surya.class
+org\testscripts\DownloadUnreadResumesAndUploadInTeams.class
+org\genericLibrary\ipathconstant.class
+org\objectRepository\Outlook_Download_UnreadResumes.class
+org\objectRepository\Outlook_LoginPage.class
+org\genericLibrary\BaseClass.class
+org\objectRepository\UploadFileInTeamsPage.class
+org\genericLibrary\Webdriver_Utility.class
